@@ -1,0 +1,14 @@
+package com.technoelevate.program;
+
+public class EvenOdd {
+	public static void main(String[] args) {
+		int n=13;
+		if(n%2==0) {
+			System.out.println("entered number is even");
+			}
+		else {
+			System.out.println("odd number");
+		}
+	}
+
+}
